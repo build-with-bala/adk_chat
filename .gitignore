@@ -1,0 +1,16 @@
+# Ignore Python byte‑code
+__pycache__/
+*.py[cod]
+# Ignore any virtual‑env folder
+venv*/               # matches venv/, .venv/, venv311/, etc.
+
+# Ignore IDE clutter
+.idea/
+
+# Ignore secrets
+.env
+*.key
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
