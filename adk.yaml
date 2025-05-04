@@ -1,0 +1,3 @@
+name: multiagent_app
+description: "A multi-agent system to reason, critique, and safely execute terminal commands."
+entry_point: main.py
