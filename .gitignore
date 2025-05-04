@@ -1,0 +1,13 @@
+# Ignore Python byte‑code
+__pycache__/
+*.py[cod]
+# Ignore any virtual‑env folder
+venv*/               # matches venv/, .venv/, venv311/, etc.
+
+# Ignore IDE clutter
+.idea/
+
+# Ignore secrets
+.env
+*.key
+.gitignore
